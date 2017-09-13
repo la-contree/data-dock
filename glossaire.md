@@ -1,4 +1,4 @@
-**Acquis**  
+**Acquis**
 Ensemble des savoirs et savoir-faire dont une personne manifeste la maîtrise dans une activité professionnelle, sociale ou de formation. Les acquis exigés pour suivre une formation constituent les pré-requis. (AFNOR) 	Indicateurs: 1.2 - 2.5
 ---
 **Actif**  
