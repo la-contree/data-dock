@@ -1,7 +1,9 @@
 **Acquis**  
+Ensemble des savoirs et savoir-faire dont une personne manifeste la maîtrise dans une activité professionnelle, sociale ou de formation. Les acquis exigés pour suivre une formation constituent les pré-requis. (AFNOR)
+*Indicateurs: 1.2 - 2.5*
 
-Ensemble des savoirs et savoir-faire dont une personne manifeste la maîtrise dans une activité professionnelle, sociale ou de formation. Les acquis exigés pour suivre une formation constituent les pré-requis. (AFNOR) 	Indicateurs: 1.2 - 2.5
 ---
+
 **Actif**  
 Statut attribué automatiquement dans DataDock à un organisme de formation qui a finalisé le dépôt des éléments d’identification de l’entreprise et d'un ou plusieurs établissements.
 ---
