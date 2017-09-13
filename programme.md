@@ -49,7 +49,7 @@ Toutes nos formations sont intra-entreprises et exécutées sur site.
     - Intégrer ELM dans du HTML
     - Éditeur ELM en ligne
     - ELM Reactor
-    - 
+
 ### Jour 1 - Après-midi - Les bases du langages
 *Après avoir installé ELM, il est temps de jouer avec le langage pour acquérir les bases syntaxiques du langage*  
 
