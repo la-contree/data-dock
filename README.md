@@ -4,6 +4,7 @@ Ressources pour aider à remplir le data-dock sans trop y laisser de plumes et d
 
 ## Indicateurs
 
+1 : L'identification précise des objectifs de la formation et son adaptation au public formé
 - [ ] Indicateur 1.1
 - [ ] Indicateur 1.2
 - [ ] Indicateur 1.3
@@ -25,5 +26,3 @@ Ressources pour aider à remplir le data-dock sans trop y laisser de plumes et d
 - [ ] Indicateur 6.1
 - [ ] Indicateur 6.2
 - [ ] Indicateur 6.3
-
-
