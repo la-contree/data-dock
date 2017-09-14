@@ -1,6 +1,6 @@
 # PROGRAMME DE FORMATION EN PRÉSENTIEL
 
-Initiation au langage de programmation ELM
+# Initiation au langage de programmation ELM
 
 ## Objectifs pédagogiques
 
