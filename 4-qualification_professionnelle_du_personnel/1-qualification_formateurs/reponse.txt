@@ -1,0 +1,7 @@
+Capacité de l’OF à produire et mettre à jour une base des expériences et qualifications des formateurs
+
+--> Avez-vous les CV/références/compétences actualisés de vos formateurs ?
+
+Description de la façon de procéder :
+
+Nous stockons les CV de nos formateurs dans notre base de connaissances. Chaque formateur à la charge de mettre à jour son CV.

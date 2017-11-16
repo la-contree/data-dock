@@ -1,0 +1,19 @@
+Capacité de l’OF à produire un programme détaillé pour l’ensemble de son offre
+ou pour son programme sur mesure, et de l’exprimer en capacités ou compétences
+professionnelles visées
+
+--> Quelles sont les rubriques de votre programme de formation ?
+
+Description de la façon de procéder :
+
+- /ut7 détecte à l'aide de ses formateurs les sujets pour lesquels un public de participantes et participants est pressenti ;
+- pour chaque sujet de formation, un formateur /ut7 est nommé comme porteur du projet de formation ;
+- cette personne rédige un texte d'introduction pour situer le contexte de la formation, la durée de la formation, les objectifs pédagogiques poursuivis, les compétences professionnelles visées, le profil de public ciblé, le programme détaillé des notions abordées pendant la formation
+- une fois ce texte prêt, il est inséré dans une fiche et diffusé sur le site web /ut7 ;
+- les personnes intéressées peuvent accéder à cette fiche de trois manières distinctes : 1. vision synthétique depuis le catalogue ; 2. vision thématique par catégorie de compétences visées ; 3. fiche détaillée
+
+Preuves :
+
+- http://ut7.fr/formations/
+- http://ut7.fr/formations/les-fondamentaux-de-l-agilite.html
+- http://ut7.fr/formations/vim-l-essentiel.html

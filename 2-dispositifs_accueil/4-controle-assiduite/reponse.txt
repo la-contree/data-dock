@@ -1,0 +1,18 @@
+Capacité de l’OF à décrire les modalités de contrôle de l’assiduité des stagiaires adaptées aux différents formats pédagogiques
+
+--> Quelles sont vos modalités de contrôle de l’assiduité des stagiaires ?
+
+
+Description de la façon de procéder :
+
+Pour chaque jour de formation, une feuille d'émargement est imprimée et mise à disposition pour le formateur. Ce dernier veille à :
+- inscrire la date de la session,
+- porter son nom et prénom et signer pour lui,
+- faire signer les stagiaires au début de chaque demi-journée.
+
+Ces documents sont ensuite scannés et archivés. Une version electronique est ensuite envoyée à l'employeur et/ou à l'OPCA de l'employeur selon les modalités définies préalablement.
+
+Dans le cadre d'une formation courte avec une liste de stagiaires connue à l'avance, une seule feuille d'émargement récapitulative sera imprimée. Dans le cadre de nos formations sur un temps long, nous utilisons une feuille d'émargement individualisée.
+
+Nous ne donnons pas de formation à distance et n'avons pas mis en place de processus de contrôle d'assiduité spécifique à ce contexte.
+

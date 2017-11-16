@@ -1,0 +1,7 @@
+Capacité de l’OF à produire des références (cadre B to B)
+
+--> Disposez-vous de références clients ?
+
+Description de la façon de procéder :
+
+Nous maintenons un document de suivi B2B des inscriptions à nos formations. Le cas échéant, nous demandons à nos contacts RH de bien vouloir servir de référence B2B. Nous n'avons pas éprouvé à ce jour le besoin de systématiser davantage cette pratique. Toutefois, nous envisageons de standardiser notre procédure de suivi en proposant à nos contacts RH de remplir une fiche de référence en fin de formation.

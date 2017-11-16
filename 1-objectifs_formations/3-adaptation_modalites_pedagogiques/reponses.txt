@@ -1,0 +1,9 @@
+Capacité de l’OF à décrire et attester de l’adaptation des modalités pédagogiques aux objectifs de la formation
+
+--> Quelles modalités pédagogiques utilisez-vous pour adapter la formation ?
+
+Description de la façon de procéder :
+
+Au cas par cas, les formateurs /ut7 décident du temps à allouer à l'introduction des pré-requis estimés insatisfaits ou à une exploration guidée si les attentes du public sont divergentes. Ils peuvent adapter la durée de la formation, le contexte technique, ou encore la constitution des groupes — en tenant compte des contraintes calendaires et financières de chacune et chacun.
+
+Les formations /ut7 sont construites autour d'exercices pratiques, délibérément conçus pour ne pas pouvoir être finis dans le temps imparti. Ainsi, les personnes de niveau moindre pourront se focaliser sur le début de l'exercice, tandis que les personnes de niveau plus avancé pourront aller plus loin dans l'approfondissement des concepts - sans qu'aucun ne ressente la pression de devoir terminer. Cela nous permet d'organiser les formations sur des temporalités différentes – et par exemple : utiliser un temps entre deux journées de formation pour avancer dans les exercices.

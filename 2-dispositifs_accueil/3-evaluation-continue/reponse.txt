@@ -1,0 +1,16 @@
+Capacité de l’OF à décrire son propre processus d’évaluation continue
+
+--> Comment mettez-vous en œuvre une démarche d’amélioration continue dans votre organisme ?
+
+Description de la façon de procéder :
+
+Les formations sont animées par un binôme de formateurs. À chaque instant pendant la formation, un des formateurs a le rôle d'animateur et l'autre le rôle d'observateur. Le binôme fait une revue de la formation une fois celle-ci terminée. Il réfléchit sur ce qui s'est bien passé et sur ce qui s'est moins bien passé. Lorsque les formations ne sont pas données en binôme, le formateur se fait suivre par un collègue, qui prend alors le rôle de superviseur. Les réflexions, pistes d'actions et amendements du plan de cours sont documentées.
+
+Chacun tient un journal de ses activités de formation. Par ailleurs, nous opérons une rotation des binômes de formateurs pour diffuser les pratiques et faire émerger nos standards de pratiques. Enfin, nous nous réunissons tous ensemble une fois par semaine pour évaluer la pertinence de nos pratiques dans leurs contextes d'application.
+
+
+Preuves :
+
+- Conseil hebdomadaire, (http://ut7.fr/blog/2015/11/18/animer-vos-retrospectives-avec-le-conseil.html)
+
+
